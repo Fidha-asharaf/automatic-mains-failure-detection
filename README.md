@@ -133,5 +133,5 @@ before testing or submission.
 
 ## Project Status
 
-Educational demonstration prototype. Update this README whenever the
-circuit, pin assignments, timing values, or software behaviour changes.
+
+This project is developed as an educational prototype to demonstrate automatic mains failure detection and power source changeover.
